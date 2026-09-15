@@ -111,11 +111,11 @@ export default function Projects() {
                         className="uppercase tracking-[0.35em] text-neutral-500 text-sm"
                         style={{ fontFamily: "'Share Tech Mono', monospace" }}
                     >
-                        2025 • React • FastAPI • PostgreSQL
+                        2025 • Python • Discord.py • Selenium
                     </p>
                     <h2 className="text-5xl font-black mt-6">
 
-                        SAFE_ROUTE
+                        ATERNOS DISCORD SERVER MANAGEMENT BOT
 
                     </h2>
                     <span
@@ -127,8 +127,7 @@ export default function Projects() {
                         className="mt-10 text-neutral-400 text-2xl leading-relaxed max-w-xl"
                         style={{ fontFamily: "'Share Tech Mono', monospace" }}
                     >
-                        AI-powered campus safety application with
-                        real-time emergency reporting and navigation.
+                        Discord bot for remotely managing and monitoring a hosted server, with commands for server control, status monitoring, and player tracking.
                     </p>
                 </button>
                 <button className="relative w-full border border-neutral-800 p-14 text-left
