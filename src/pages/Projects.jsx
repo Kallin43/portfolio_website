@@ -33,11 +33,14 @@ export default function Projects() {
                         EYE FATIGUE TRACKER
                     </h2>
 
-                    <span
+                    <a
+                        href="https://digital-twin-zeta-beige.vercel.app/"
+                        target="_blank"
+                        rel="noreferrer"
                         className="absolute top-10 right-10 border border-neutral-700 w-16 h-16 flex items-center justify-center hover:border-white transition"
                     >
                         ↗
-                    </span>
+                    </a>
 
                     <p
                         className="mt-10 text-neutral-400 text-2xl leading-relaxed max-w-xl"
@@ -62,11 +65,14 @@ export default function Projects() {
                         AI STUDY ASSISTANT
                     </h2>
 
-                    <span
+                    <a
+                        href="https://github.com/Kallin43"
+                        target="_blank"
+                        rel="noreferrer"
                         className="absolute top-10 right-10 border border-neutral-700 w-16 h-16 flex items-center justify-center hover:border-white transition"
                     >
                         ↗
-                    </span>
+                    </a>
 
                     <p
                         className="mt-10 text-neutral-400 text-xl leading-relaxed max-w-xl"
@@ -91,11 +97,14 @@ export default function Projects() {
                         SAFE_ROUTE
 
                     </h2>
-                    <span
+                    <a
+                        href="https://github.com/Kallin43/SafeRoute"
+                        target="_blank"
+                        rel="noreferrer"
                         className="absolute top-10 right-10 border border-neutral-700 w-16 h-16 flex items-center justify-center hover:border-white transition"
                     >
                         ↗
-                    </span>
+                    </a>
                     <p
                         className="mt-10 text-neutral-400 text-2xl leading-relaxed max-w-xl"
                         style={{ fontFamily: "'Share Tech Mono', monospace" }}
@@ -118,11 +127,14 @@ export default function Projects() {
                         ATERNOS DISCORD SERVER MANAGEMENT BOT
 
                     </h2>
-                    <span
+                    <a
+                        href="https://github.com/Kallin43/aternos-discord-bot"
+                        target="_blank"
+                        rel="noreferrer"
                         className="absolute top-10 right-10 border border-neutral-700 w-16 h-16 flex items-center justify-center hover:border-white transition"
                     >
                         ↗
-                    </span>
+                    </a>
                     <p
                         className="mt-10 text-neutral-400 text-2xl leading-relaxed max-w-xl"
                         style={{ fontFamily: "'Share Tech Mono', monospace" }}
@@ -137,24 +149,26 @@ export default function Projects() {
                         className="uppercase tracking-[0.35em] text-neutral-500 text-sm"
                         style={{ fontFamily: "'Share Tech Mono', monospace" }}
                     >
-                        2025 • React • FastAPI • PostgreSQL
+                        2025 • React • Vite • Tailwind CSS
                     </p>
                     <h2 className="text-5xl font-black mt-6">
 
-                        SAFE_ROUTE
+                        PERSONAL PORTFOLIO WEBSITE
 
                     </h2>
-                    <span
+                    <a
+                        href="https://github.com/Kallin43/portfolio_website"
+                        target="_blank"
+                        rel="noreferrer"
                         className="absolute top-10 right-10 border border-neutral-700 w-16 h-16 flex items-center justify-center hover:border-white transition"
                     >
                         ↗
-                    </span>
+                    </a>
                     <p
                         className="mt-10 text-neutral-400 text-2xl leading-relaxed max-w-xl"
                         style={{ fontFamily: "'Share Tech Mono', monospace" }}
                     >
-                        AI-powered campus safety application with
-                        real-time emergency reporting and navigation.
+                        Responsive personal portfolio website showcasing projects, skills, resume, about section, and contact information through a modern and interactive interface.
                     </p>
                 </button>
                 <div className="border border-neutral-800 p-14 min-h-[280px] relative">
